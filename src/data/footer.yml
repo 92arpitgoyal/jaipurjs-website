@@ -10,7 +10,7 @@ about:
     is_primary: false
     is_scrolly: false
 contact_methods:
-  enabled: true
+  enabled: false
   methods_col1:
   - type: contact_with_text
     template: contact_with_text
