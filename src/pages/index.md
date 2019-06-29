@@ -9,13 +9,6 @@ banner:
     is_primary: false
     is_scrolly: false
     is_huge: true
-  component: Cta
-- type: posts
-  template: posts
-  section_id: posts
-  title: Convallis amet interdum
-  subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
-  component: Posts
 menus:
   main:
     title: Home
