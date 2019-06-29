@@ -5,8 +5,8 @@ banner:
   subtitle: Contribute, learn, share or simply talk about JS.
   actions:
   - label: Learn More
-    url: https://github.com/JaipurJS
-    is_primary: true
+    url: no-sidebar.md
+    is_primary: false
     is_scrolly: false
     is_huge: true
 sections: []
