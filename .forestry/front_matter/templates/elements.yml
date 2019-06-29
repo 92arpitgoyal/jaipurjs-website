@@ -23,3 +23,5 @@ fields:
   default: elements
   config:
     required: true
+pages:
+- src/pages/elements.md
