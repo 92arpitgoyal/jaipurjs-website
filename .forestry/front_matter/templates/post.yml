@@ -90,3 +90,8 @@ fields:
   default: page
   config:
     required: true
+pages:
+- src/pages/posts/post-08.md
+- src/pages/posts/post-06.md
+- src/pages/posts/post-04.md
+- src/pages/posts/post-02.md
