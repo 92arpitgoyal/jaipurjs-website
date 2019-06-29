@@ -62,3 +62,8 @@ fields:
   default: page
   config:
     required: true
+pages:
+- src/pages/terms.md
+- src/pages/right-sidebar.md
+- src/pages/privacy.md
+- src/pages/left-sidebar.md
